@@ -1,0 +1,25 @@
+{
+  "name": "react-hooks-practice",
+  "version": "1.0.0",
+  "description": "React-Hooks 연습예제",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yeonlisa/React-Hooks-practice.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "title"
+  ],
+  "author": "Yeonlisa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yeonlisa/React-Hooks-practice/issues"
+  },
+  "homepage": "https://github.com/Yeonlisa/React-Hooks-practice#readme",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
